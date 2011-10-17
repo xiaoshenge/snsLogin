@@ -1,0 +1,3 @@
+目前整合的有豆瓣，开心，新浪微博，QQ的登录功能。（基于oauth1.0）
+oauth.php件来源于另外一个项目： http://code.google.com/p/oauth/
+curl.php,curl_resqonse.php来源于：https://github.com/shuber/curl
