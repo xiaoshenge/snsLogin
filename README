@@ -1,3 +1,8 @@
-Ä¿Ç°ÕûºÏµÄÓĞ¶¹°ê£¬¿ªĞÄ£¬ĞÂÀËÎ¢²©£¬QQµÄµÇÂ¼¹¦ÄÜ¡££¨»ùÓÚoauth1.0£©
-oauth.php¼şÀ´Ô´ÓÚÁíÍâÒ»¸öÏîÄ¿£º http://code.google.com/p/oauth/
-curl.php,curl_resqonse.phpÀ´Ô´ÓÚ£ºhttps://github.com/shuber/curl
+ç›®å‰æ•´åˆçš„æœ‰è±†ç“£ï¼Œå¼€å¿ƒï¼Œæ–°æµªå¾®åšï¼ŒQQçš„ç™»å½•åŠŸèƒ½ã€‚ï¼ˆåŸºäºoauth1.0ï¼‰
+oauth.phpä»¶æ¥æºäºå¦å¤–ä¸€ä¸ªé¡¹ç›®ï¼š http://code.google.com/p/oauth/
+curl.php,curl_resqonse.phpæ¥æºäºï¼šhttps://github.com/shuber/curl
+
+BTW:
+if cannot Understand the code,you can connet to xiaoshengeer@gmail.com (I am very happy to help you).
+if you want to understan oauth you can visit:http://www.douban.com/note/143122038/
+you can see demo in SAE:http://snslogin.sinaapp.com/
